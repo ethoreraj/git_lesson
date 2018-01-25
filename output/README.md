@@ -1,3 +1,3 @@
-# output
+# Output
 
 This folder contains output documentation
