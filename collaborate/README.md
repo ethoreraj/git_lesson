@@ -1,4 +1,4 @@
-# collaborate
+# Collaborate
 
 Collaborator adding this new line of text.
 
